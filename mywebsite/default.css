@@ -59,6 +59,12 @@ h6 { font-size: 16px;}
 }
 
 
+.greeting-wrapper{
+    display: grid;
+    border: 2p dashed lightcoral;
+    min-height: 20em;
+}
+
 @media screen and (max-width: 1200px){
     .main-container{
         width: 95%;

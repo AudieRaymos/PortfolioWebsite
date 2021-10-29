@@ -61,6 +61,9 @@ h6 { font-size: 16px;}
 
 .greeting-wrapper{
     display: grid;
+
+    justify-content: center;
+    align-content: center;
     border: 2p dashed lightcoral;
     min-height: 20em;
 }

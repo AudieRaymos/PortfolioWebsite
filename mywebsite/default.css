@@ -63,7 +63,7 @@ h6 { font-size: 16px;}
     display: grid;
     text-align: center;
     align-content: center;
-    border: 2p dashed lightcoral;
+    border: 2px dashed lightcoral;
     min-height: 10em;
 }
 

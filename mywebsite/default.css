@@ -261,6 +261,11 @@ h6 { font-size: 16px;}
     grid-template-columns: repeat(auto-fit, minmax(320px, 1 fr));
 }
 
+#skills{
+    display: flex;
+    justify-content: space-evenly;
+}
+
 @media screen and (max-width: 1200px){
     .main-container{
         width: 95%;

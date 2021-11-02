@@ -227,16 +227,16 @@ h6 { font-size: 16px;}
 
 #corner-tr{
     top: -5px;
-    left: -5px;
+    right: -5px;
 }
 
 #corner-br{
-    top: -5px;
-    left: -5px;
+    bottom: -5px;
+    right: -5px;
 }
 
 #corner-bl{
-    top: -5px;
+    bottom: -5px;
     left: -5px;
 }
 

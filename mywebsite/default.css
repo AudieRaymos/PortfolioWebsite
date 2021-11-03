@@ -307,6 +307,15 @@ h6 { font-size: 16px;}
     padding: 15px;
 }
 
+.post-title{
+    color: black;
+}
+
+.post-intro{
+    color: #4b5156;
+    font-size: 16px;
+}
+
 
 @media screen and (max-width: 1200px){
     .main-container{

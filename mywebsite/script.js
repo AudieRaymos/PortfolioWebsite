@@ -8,3 +8,9 @@ for (var i=0; themeDots.length > i; i++){
         console.log('Option clicked:', mode)
     })
 }
+
+function setTheme(mode){
+if(mode == 'light'){
+    document.getElementById('theme-style').href = 'default.css'
+}
+}

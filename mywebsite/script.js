@@ -35,6 +35,6 @@ if(mode == 'purple'){
     document.getElementById('theme-style').href = 'purple.css'
 }
 
-let theme = localStorage.setItem('theme')
+let theme = localStorage.setItem('theme', mode)
 
 }

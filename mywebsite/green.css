@@ -16,6 +16,7 @@
 }
 
 .tabs{
+    color: var(--secondaryText);
     border: #669966;
     background-color: #669966;
 }

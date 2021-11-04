@@ -14,3 +14,11 @@
 
     --buttonColor: #8534a3;
 }
+
+
+
+.tabs{
+    color: var(--secondaryText);
+    border: #8534a3;
+    background-color: #8534a3;
+}

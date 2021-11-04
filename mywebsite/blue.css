@@ -14,3 +14,9 @@
 
     --buttonColor: #17a2b8;
 }
+
+.tabs{
+    color: var(--secondaryText);
+    border: #17a2b8;
+    background-color: #17a2b8;
+}

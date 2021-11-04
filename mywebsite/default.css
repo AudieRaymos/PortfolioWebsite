@@ -291,6 +291,19 @@ h6 { font-size: 16px;}
     width: 100%;
 }
 
+/* ---------- Tabs ---------- */
+.tabs-container{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.tabs{
+    border: blue 1px solid;
+    padding: 10px;
+}
+
+
 .post-wrapper{
     display: grid;
     grid-template-columns: repeat(auto-fit, 320px);

@@ -293,13 +293,19 @@ h6 { font-size: 16px;}
 
 /* ---------- Tabs ---------- */
 .tabs-container{
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 10px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 200px);
+    gap: 20px;
+    justify-content: center;
+    padding-bottom: 50px;
 }
 
 .tabs{
-    border: blue 1px solid;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    background-color: #c1c1c1;
+    border: #c1c1c1 1px solid;
     padding: 10px;
 }
 

@@ -291,7 +291,10 @@ h6 { font-size: 16px;}
     width: 100%;
 }
 
-
+.social-ig:hover{
+    filter: grayscale(100%);
+    transform: scale(1.1);
+}
 
 /* ---------- Tabs ---------- */
 .tabs-container{

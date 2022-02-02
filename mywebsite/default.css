@@ -297,6 +297,7 @@ h6 { font-size: 16px;}
 }
 
 /* ---------- Tabs ---------- */
+
 .tabs-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, 200px);
@@ -307,6 +308,7 @@ h6 { font-size: 16px;}
 
 .tabs{
     display: flex;
+    text-align: center;
     align-content: center;
     align-items: center;
     background-color: #c1c1c1;
